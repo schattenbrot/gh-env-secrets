@@ -10,7 +10,7 @@ jobs:
   test:
     environment: testing
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.pgnuops.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.3ug8vgl.mongodb.net
       MONGODB_USERNAME: admin
       MONGODB_PASSWORD: admin
       PORT: 8080
